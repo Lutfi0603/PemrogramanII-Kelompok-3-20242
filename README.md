@@ -1,5 +1,5 @@
 # PemrogramanII-Kelompok-3-20242
-# Anngota
+# Angota
 FARHAN HIDINILLAH
 HEPPY AZIZZUL KHAKIM
 ILHAM NURUL IKHSAN
